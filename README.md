@@ -4,7 +4,7 @@
 - Bootstrap
 - jQuery
 - Sass
-- React
-- Redux
+- [React](https://github.com/SparksCode/Front-End-Libraries/tree/master/React)
+- [Redux](https://github.com/SparksCode/Front-End-Libraries/tree/master/Redux)
 - React and Redux
 - Front End Libraries Projects
